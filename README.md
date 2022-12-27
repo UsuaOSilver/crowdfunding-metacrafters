@@ -1,4 +1,4 @@
-# Crowdfunding Metacrafters
+# CROWDFUNDING
 
 This project demonstrates a crowdfunding campaign where users can pledge funds to and claim funds from the contract.
 
