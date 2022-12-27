@@ -2,6 +2,10 @@
 
 This project demonstrates a crowdfunding campaign where users can pledge funds to and claim funds from the contract.
 
+# Quick Start
+
+# Metacrafters Talent Collective Requirements
+
 ## General Functionalities
 
 1. Funds take the form of a custom ERC20 token
